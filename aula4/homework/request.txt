@@ -1,0 +1,8 @@
+GET /
+Host: 4linux.com.br
+Content-Type: text/html
+
+POST /path/to/post HTTP/4.20
+Host: 4linux.com.br
+Blaze: it
+Content-Type: application/json
